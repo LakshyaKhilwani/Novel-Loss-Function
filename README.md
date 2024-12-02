@@ -1,0 +1,1 @@
+This repository showcases a deep dive into time series forecasting.It includes the implementation of custom loss functions designed to improve prediction accuracy and smoothness, with detailed performance analysis across various datasets like AQI, Seoul, and Jena Climate
